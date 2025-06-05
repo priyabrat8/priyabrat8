@@ -2,6 +2,8 @@
 
 I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN stack** (MongoDB, Express.js, React, Node.js). Currently, I'm expanding my backend expertise with **Java**, sharpening my problem-solving skills with **Data Structures & Algorithms**, and exploring the worlds of **Cybersecurity** and **Cloud Computing**.
 
+---
+
 ## 🚀 Tech Stack
 
 **Frontend:**
@@ -20,14 +22,15 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN
 - Docker 🐳 (Basics)
 - Learning Azure ☁️
 
+**Operating System:**
+- Linux (Kali Linux) 🧑‍💻
+- Windows 💻
+
 **Other Interests:**
 - Cybersecurity 🔐
 - Cloud Computing 🖥️
 - System Security 🔒
 
-**Operating System:**
-- Linux(Kali Linux) 
-- Windows 11
 ---
 
 ## 📈 Currently Learning
