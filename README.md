@@ -15,7 +15,6 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN
 **Backend:**
 - Node.js + Express.js 🌐
 - MongoDB 🛢️
-- Currently Learning: Java Spring Boot ☕
 
 **DevOps / Cloud:**
 - Git & GitHub 🧰
@@ -34,8 +33,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN
 ---
 
 ## 📈 Currently Learning
-- Java Backend Development
-- Advanced DSA (geeksforgeeks)
+- Advanced DSA 
 - Azure Cloud 
 - Cybersecurity Basics (OWASP)
 
