@@ -1,35 +1,35 @@
 ## 👋 Hi there, I'm Priyabrat Swain!
 
-## I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN stack** (MongoDB, Express.js, React, Node.js). Currently, I'm expanding my backend expertise with **Java**, sharpening my problem-solving skills with **Data Structures & Algorithms**, and exploring the worlds of **Cybersecurity** and **Cloud Computing**.
+<!-- I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN stack** (MongoDB, Express.js, React, Node.js). Currently, I'm expanding my backend expertise with **Java**, sharpening my problem-solving skills with **Data Structures & Algorithms**, and exploring the worlds of **Cybersecurity** and **Cloud Computing**. -->
 
 ---
 
 ## 🚀 Tech Stack
 
 **Frontend:**
-## - React.js ⚛️
+<!-- - React.js ⚛️ -->
 - HTML5 & CSS3 🎨
 - JavaScript (ES6+) 💻
-- TailwindCSS / Bootstrap 🎨
+<!-- - TailwindCSS / Bootstrap 🎨 -->
 
-## **Backend:**
+ <!-- **Backend:**
 ## - Node.js + Express.js 🌐
 ## - MongoDB 🛢️
-
+-->
 **DevOps / Cloud:**
 - Git & GitHub 🧰
-## - Docker 🐳 (Basics)
+<!-- - Docker 🐳 (Basics)
 - Learning Azure ☁️
-
+-->
 **Operating System:**
 - Linux (Kali Linux) 🧑‍💻
 - Windows 💻
-
+<!--
 **Other Interests:**
-## - Cybersecurity 🔐
+- Cybersecurity 🔐
 - Cloud Computing 🖥️
-## - System Security 🔒
-
+- System Security 🔒
+-->
 ---
 
 ## 📈 Currently Learning
