@@ -35,7 +35,7 @@
 ## 📈 Currently Learning
 - Advanced DSA 
 - Azure Cloud 
-## - Cybersecurity Basics (OWASP)
+  <!-- - Cybersecurity Basics (OWASP) -->
 
 ---
 
