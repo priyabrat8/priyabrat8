@@ -44,6 +44,7 @@ A smart security layer using **NLP** and URL threat analysis to detect malicious
 
 * **Microsoft Certified: Azure Fundamentals (AZ-900)** ☁️
     * Validated expertise in cloud concepts, Azure architecture, and Entra ID security.
+      
 * **Certified Network Security Practitioner (CNSP)** 🛡️
     * Focused on defensive security operations and network infrastructure hardening.
 
