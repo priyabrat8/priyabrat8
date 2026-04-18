@@ -10,32 +10,32 @@
 <!-- - React.js ⚛️ -->
 - HTML5 & CSS3 🎨
 - JavaScript (ES6+) 💻
-<!-- - TailwindCSS / Bootstrap 🎨 -->
+- Tailwind CSS ⚛️
 
- <!-- **Backend:**
-## - Node.js + Express.js 🌐
-## - MongoDB 🛢️
--->
+**Backend:**
+- Django 🌐
+- PostgreSQL 🛢️
+
 **DevOps / Cloud:**
 - Git & GitHub 🧰
-<!-- - Docker 🐳 (Basics)
-- Learning Azure ☁️
--->
+- Docker 🐳 (Basics)
+- Azure ☁️
+
 **Operating System:**
 - Linux (Kali Linux) 🧑‍💻
 - Windows 💻
-<!--
+
 **Other Interests:**
 - Cybersecurity 🔐
 - Cloud Computing 🖥️
-- System Security 🔒
+<!-- - System Security 🔒
 -->
 ---
-
+<!--
 ## 📈 Currently Learning
 - Advanced DSA 
 - Azure Cloud 
-  <!-- - Cybersecurity Basics (OWASP) -->
+   - Cybersecurity Basics (OWASP) -->
 
 ---
 
