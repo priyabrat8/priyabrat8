@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-AZ--900%20Certified-blue?style=flat-square&logo=microsoftazure" />
   <img src="https://img.shields.io/badge/Security-CNSP%20Certified-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/YouTube-50+%20Tutorials-FF0000?style=flat-square&logo=youtube" />
+  <img src="https://img.shields.io/badge/YouTube-1k+%20Subscriber-FF0000?style=flat-square&logo=youtube" />
 </p>
 
 I build secure, scalable web applications and explore vulnerabilities to understand how systems break and how to make them stronger.
@@ -14,31 +14,16 @@ I build secure, scalable web applications and explore vulnerabilities to underst
 
 ## 🚀 Tech Stack
 
-**Frontend:**
-<!-- - React.js ⚛️ -->
-- HTML5 & CSS3 🎨
-- JavaScript (ES6+) 💻
-- Tailwind CSS ⚛️
-
-**Backend:**
-- Django 🌐
-- PostgreSQL 🛢️
-
-**DevOps / Cloud:**
-- Git & GitHub 🧰
-- Docker 🐳 (Basics)
-- Azure ☁️
-
-**Operating System:**
-- Linux (Kali Linux) 🧑‍💻
-- Windows 💻
-
-**Other Interests:**
-- Cybersecurity 🔐
-- Cloud Computing 🖥️
-<!-- - System Security 🔒
--->
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming Language** | Java, Python |
+| **Backend** | Django, PostgreSQL |
+| **Frontend** | HTML, Tailwind CSS, JavaScript |
+| **Security** | Kali Linux, Nmap, Wireshark, Burp Suite and more |
+| **Cloud/DevOps** | Azure, Docker, Git, GitHub |
+| **AI/ML** | NLP, Text Classification |
 ---
+
 <!--
 ## 📈 Currently Learning
 - Advanced DSA 
@@ -48,17 +33,37 @@ I build secure, scalable web applications and explore vulnerabilities to underst
 ---
 -->
 
+## 🚀 Projects
+
+### 🔍 [Phishing Email Detection System](https://phishing-email-detector-0lj4.onrender.com/):
+A smart security layer using **NLP** and URL threat analysis to detect malicious emails and domain reputation in real-time.
+
+---
+
+## 🏆 Certifications & Achievements
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/users/priyabrat/credentials/995a55d18534cebc?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  </a>
+  <a href="YOUR_CNSP_LINK">
+    <img src="https://img.shields.io/badge/Security-CNSP_Certified-red?style=for-the-badge&logo=fortinet&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/TryHackMe-Advent_of_Cyber_2025-green?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
-- 🎥 https://www.youtube.com/@Priyabrat_Swain
-- 💼 https://www.linkedin.com/in/priyabrat-swain-14535a31b/
-<!-- - 🌐 [Portfolio Website] *(optional)* -->
+[![YouTube](https://img.shields.io/badge/YouTube-@Priyabrat_Swain-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Priyabrat_Swain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyabrat_Swain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyabrat-swain-14535a31b/)
 
+---
 
+> ⚡ *“The best way to predict the future is to invent it.”* – Alan Kay
 
- ⚡ “The best way to predict the future is to invent it.” – Alan Kay
-
-Thanks for visiting my profile! Feel free to explore my repos and reach out for collaboration, ideas, or a friendly tech chat 😊
+⭐ **Always building. Always breaking. Always learning.**
 
 <!--
 **priyabrat8/priyabrat8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
