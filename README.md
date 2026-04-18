@@ -42,15 +42,10 @@ A smart security layer using **NLP** and URL threat analysis to detect malicious
 
 ## 🏆 Certifications & Achievements
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/priyabrat/credentials/995a55d18534cebc?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  </a>
-  <a href="YOUR_CNSP_LINK">
-    <img src="https://img.shields.io/badge/Security-CNSP_Certified-red?style=for-the-badge&logo=fortinet&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/TryHackMe-Advent_of_Cyber_2025-green?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</p>
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** ☁️
+    * Validated expertise in cloud concepts, Azure architecture, and Entra ID security.
+* **Certified Network Security Practitioner (CNSP)** 🛡️
+    * Focused on defensive security operations and network infrastructure hardening.
 
 ---
 
