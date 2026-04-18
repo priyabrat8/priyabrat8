@@ -1,6 +1,14 @@
 ## 👋 Hi there, I'm Priyabrat Swain!
 
-<!-- I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN stack** (MongoDB, Express.js, React, Node.js). Currently, I'm expanding my backend expertise with **Java**, sharpening my problem-solving skills with **Data Structures & Algorithms**, and exploring the worlds of **Cybersecurity** and **Cloud Computing**. -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&lines=Full+Stack+Developer;Cybersecurity+Learner;Bug+Bounty+Hunter)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-AZ--900%20Certified-blue?style=flat-square&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Security-CNSP%20Certified-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/YouTube-50+%20Tutorials-FF0000?style=flat-square&logo=youtube" />
+</p>
+
+I build secure, scalable web applications and explore vulnerabilities to understand how systems break and how to make them stronger.
 
 ---
 
